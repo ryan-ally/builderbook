@@ -73,6 +73,6 @@
     "yarn-8": "cross-env-shell && cd 8-begin && yarn && cd .. && cd 8-end && yarn && cd .."
   },
   "devDependencies": {
-    "cross-env": "5.2.0"
+    "cross-env": "5.2.1"
   }
 }
