@@ -37,7 +37,7 @@
     "next": "^9.1.2",
     "node-fetch": "^2.6.0",
     "nprogress": "0.2.0",
-    "passport": "0.4.1",
+    "passport": "0.6.0",
     "passport-google-oauth": "2.0.0",
     "prop-types": "15.7.2",
     "qs": "6.9.4",
