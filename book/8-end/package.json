@@ -43,7 +43,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "sitemap": "6.2.0",
-    "stripe": "8.89.0"
+    "stripe": "8.222.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
